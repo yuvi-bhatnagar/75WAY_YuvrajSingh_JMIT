@@ -1,0 +1,4 @@
+MONGO_URL="mongodb+srv://yuvrajbhatnagar36:yuvrajbhatnagar36@cluster0.iq1uuxm.mongodb.net/PlaySchool?retryWrites=true&w=majority"
+JWT_SECRET="dnhaodkfklnmklv8fgkjy7489457395jdfk**^^&kfkdjhgjkhakl"
+MAIL_USER="yuvrajbhatnagar36@gmail.com"
+MAIL_PASS="nivpsdqajmiuftkj"
